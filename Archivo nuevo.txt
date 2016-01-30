@@ -12,4 +12,3 @@
 
 
 /* Modificando otra línea más */
->>>>>>> master
