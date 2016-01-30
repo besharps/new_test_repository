@@ -1,4 +1,15 @@
 1- ESTO lo agrega Pablo
 
+/* Línea agregada por Ramiro */
 
-4- ESTO lo agrega Pablo
+
+
+
+
+
+/* Línea agregada por Gabi!!! */
+
+
+
+/* Modificando otra línea más */
+>>>>>>> master
