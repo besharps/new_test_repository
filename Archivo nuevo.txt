@@ -1,3 +1,4 @@
+1- ESTO lo agrega Pablo
 
 /* Línea agregada por Ramiro */
 
@@ -11,3 +12,4 @@
 
 
 /* Modificando otra línea más */
+>>>>>>> master
